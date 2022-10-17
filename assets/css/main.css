@@ -182,15 +182,15 @@
 }
 
 .social-icon--email {
-  background: #311611;
+  background: #D33E43;
   color: #fff;
 }
 .social-icon--email .tooltip {
-  background: #311611;
+  background: #D33E43;
   color: currentColor;
 }
 .social-icon--email .tooltip:after {
-  border-top-color: #311611;
+  border-top-color: #D33E43;
 }
 
 .social-icon--scholar {
