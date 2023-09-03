@@ -182,15 +182,15 @@
 }
 
 .social-icon--email {
-  background: #D33E43;
+  background: #5C4033;
   color: #fff;
 }
 .social-icon--email .tooltip {
-  background: #D33E43;
+  background: #5C4033;
   color: currentColor;
 }
 .social-icon--email .tooltip:after {
-  border-top-color: #D33E43;
+  border-top-color: #5C4033;
 }
 
 .social-icon--scholar {
@@ -205,15 +205,15 @@
   border-top-color: #527fa6;
 }
 .social-icon--resume {
-  background: #5C4033;
+  background: #D33E43;
   color: #fff;
 }
 .social-icon--resume .tooltip {
-  background: #5C4033;
+  background: #D33E43;
   color: currentColor;
 }
 .social-icon--resume .tooltip:after {
-  border-top-color: #5C4033;
+  border-top-color: #D33E43;
 }
 .social-icon--github {
   background: #000;
