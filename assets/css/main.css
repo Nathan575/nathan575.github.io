@@ -205,15 +205,15 @@
   border-top-color: #527fa6;
 }
 .social-icon--resume {
-  background: #D33E43;
+  background: #5C4033;
   color: #fff;
 }
 .social-icon--resume .tooltip {
-  background: #D33E43;
+  background: #5C4033;
   color: currentColor;
 }
 .social-icon--resume .tooltip:after {
-  border-top-color: #D33E43;
+  border-top-color: #5C4033;
 }
 .social-icon--github {
   background: #000;
